@@ -28,24 +28,6 @@ A streamlined dataset with 44 essential indicators
 
 Saved as: FinalData.csv
 
-# Data Processing
-Data was cleaned and processed using a custom Python script called BizNestDataProcessing. Key steps included:
-
-Filtering relevant characteristics from the census CSVs
-
-Binning ages into standard ranges
-
-Converting values to percentage of total population (where applicable)
-
-Handling special metrics like median income and age
-
-Rounding and organizing data per city
-
-The final result was saved as:
-
-Copy
-Edit
-datasets/FinalData.csv
 # Streamlit App
 A Streamlit app (app.py) was developed to visualize and interact with the processed data.
 
