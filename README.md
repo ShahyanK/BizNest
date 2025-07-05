@@ -1,5 +1,4 @@
 # BizNest
-# BizNest – GTA Business Targeting Dashboard
 BizNest is a Streamlit-based data exploration and business planning tool built to help aspiring entrepreneurs identify the most strategic GTA city to open a restaurant, using demographic data from Statistics Canada.
 
 # Project Overview
