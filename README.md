@@ -15,11 +15,9 @@ The original census files included thousands of columns per city.
 
 I created a custom processing script, BizNestDataProcessing, to:
 
-Filter relevant demographic indicators (religion, age, household size, etc.)
-
-Normalize values to percentages
-
-Aggregate or bin similar values (e.g., age ranges)
+*  Filter relevant demographic indicators (religion, age, household size, etc.)
+* Normalize values to percentages
+* Aggregate or bin similar values (e.g., age ranges)
 
 Merge datasets across cities
 
