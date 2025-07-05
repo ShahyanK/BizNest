@@ -18,8 +18,7 @@ I created a custom processing script, BizNestDataProcessing, to:
 *  Filter relevant demographic indicators (religion, age, household size, etc.)
 * Normalize values to percentages
 * Aggregate or bin similar values (e.g., age ranges)
-
-Merge datasets across cities
+* Merge datasets across cities
 
 # Final Output
 A streamlined dataset with 44 essential indicators
@@ -30,20 +29,15 @@ Saved as: FinalData.csv
 A Streamlit app (app.py) was developed to visualize and interact with the processed data.
 
 Features:
-City Demographics Tab:
-
-Age group distribution
-
-Religious affiliation
-
-Median age and income
+* City Demographics Tab:
+* Age group distribution
+* Religious affiliation
+* Median age and income
 
 Restaurant Fit & Competition Tab:
 
 Choose a restaurant category (e.g., Bubble Tea, Halal, Vegan)
-
 See how well the city’s demographics match the typical customer profile
-
 View a Business Targeting Fit Score out of 100
 
 [Yelp API placeholder] for concentration of similar restaurants in the city
