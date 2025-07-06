@@ -51,12 +51,8 @@ You can find all processed datasets in the datasets/ folder, including the main 
 datasets/FinalData.csv
 
 # Tools & Libraries
-Python (pandas, matplotlib)
-
-Streamlit
-
-Statistics Canada Census 2021 data
-
-Excel
-
-[Optional] Yelp Fusion API (planned)
+* Python (pandas, matplotlib)
+* Streamlit
+* Excel
+* Statistics Canada Census 2021 data
+* Yelp Fusion API (planned)
